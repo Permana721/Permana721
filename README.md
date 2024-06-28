@@ -1,2 +1,2 @@
 
-![Permana721 github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=hyochan)
+![Permana721 github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=Permana721)
