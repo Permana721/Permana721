@@ -1,1 +1,1 @@
-![Permana721 GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+![Permana721 GitHub stats](https://github-readme-stats.vercel.app/api?username=Permana721&theme=dark&show_icons=true)
