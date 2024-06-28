@@ -1,1 +1,1 @@
-![github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=hyochan)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
