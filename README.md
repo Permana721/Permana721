@@ -7,7 +7,6 @@
 - 🎓 2nd Semester Informatics Engineering Student  
 - 💻 Interested in Backend & Fullstack Development  
 - 🌱 Currently learning: Java, Laravel, React, Golang  
-- 📚 Studying: Object-Oriented Programming & Discrete Mathematics  
 
 ---
 
