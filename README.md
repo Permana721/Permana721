@@ -3,13 +3,6 @@
 
 ---
 
-## 🚀 About Me
-- 🎓 2nd Semester Informatics Engineering Student  
-- 💻 Interested in Backend & Fullstack Development  
-- 🌱 Currently learning: Java, Laravel, React, Golang  
-
----
-
 ## 🛠️ Tech Stack
 ### 👨‍💻 Languages
 ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk)
@@ -41,18 +34,6 @@
 ---
 
 ## 📚 Currently Learning
-- Backend Development with Laravel & Golang  
+- Backend Development with Larevel & Golang  
 - Frontend Development with React  
 - Data Structures & Algorithms  
-- Japanese Language 🇯🇵  
-
----
-
-## 🎯 Future Goals
-- 🚀 Build scalable backend systems  
-- 🇯🇵 Work as a software engineer in Japan  
-
----
-
-## ⚡ Fun Fact
-> I am consistently improving my coding skills while learning Japanese every day 🇯🇵💻
