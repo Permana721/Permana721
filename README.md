@@ -50,7 +50,6 @@
 ## 🎯 Future Goals
 - 🚀 Build scalable backend systems  
 - 🇯🇵 Work as a software engineer in Japan  
-- 📦 Contribute to open-source projects  
 
 ---
 
