@@ -30,10 +30,3 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Permana721&theme=tokyo-night" />
 </p>
-
----
-
-## 📚 Currently Learning
-- Backend Development with Larevel & Golang  
-- Frontend Development with React  
-- Data Structures & Algorithms  
