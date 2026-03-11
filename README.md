@@ -24,8 +24,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Permana721&theme=tokyonight" />
 </p>
 
----
-
 ## 💻 Most Used Languages
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Permana721&layout=compact&theme=tokyonight" />
