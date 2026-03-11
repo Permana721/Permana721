@@ -22,8 +22,9 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Permana721&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Permana721&theme=tokyonight" />
+</p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Permana721&layout=compact&theme=tokyonight" />
-
 </p>
 
 ---
