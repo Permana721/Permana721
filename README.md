@@ -27,9 +27,16 @@
 ---
 
 ##  GitHub Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Permana721&theme=tokyonight" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Permana721&theme=tokyonight&hide_border=true" height="165" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Permana721&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+    </td>
+  </tr>
+</table>
 
 ---
 
