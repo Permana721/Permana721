@@ -1,5 +1,5 @@
 <h1 align="center">Hello! I'm Permana</h1>
-<h3 align="center">Computer Science Student | Backend & DevOps Enthusiast</h3>
+<h3 align="center">Computer Science Student </br> Backend & DevOps Enthusiast</h3>
 
 ---
 
